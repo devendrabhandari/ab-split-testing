@@ -12,4 +12,4 @@ Instructions:
 7.  	The front end can be simple and minimal, there will be two possible templates (see section #2) and the one selected on the admin section be displayed to the visitor (as selected on section #2), the landing page will have a simple form on it (name, email address and a CTA button)
 8.  	The data saved on sections #5 and #6 will be displayed on a table on the admin section for each tests (name of test, number of visitors for each page and number of conversions on each page [cta clicks])
 9.  	The plugin will be able to escape server side caching, therefore redirects should happen on client side
-10.  All code should be located on a wordpress plugin which will be able to be installed on any wordpress theme
+10.  All code should be located on a wordpress plugin which will be able to be installed on any wordpress theme.
