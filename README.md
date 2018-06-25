@@ -5,7 +5,7 @@ Goal: create a Wordpress A/B testing plugin which creates a test between two lan
 Instructions:
 1.  	Create a custom post type for the landing pages
 2.  	Each landing page will have a field on its admin section to select between two front end templates
-3.  	The plugin will allow us to create a test between two landing pages, the admin will be able to enter a name for each test.
+3.  	The plugin will allow us to create a test between two landing pages, the admin will be able to \n enter a name for each test.
 4.  	When a user visits page #1 he will stay on that page or be redirected to page #2, (50% of the traffic for each page)
 5.  	The number of visitors on each page will be stored on the DB
 6.  	The amount of times a user has clicked the CTA button on the page will be stored on the DB, please make sure to store no more than 1 click per visit
